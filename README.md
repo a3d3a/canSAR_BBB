@@ -1,5 +1,3 @@
-Here's a concise README based on your training script, emphasizing the dataset, molecular representations, validation strategy, and probability calibration without getting too deep into implementation details.
-
 # canSAR Blood–Brain Barrier Permeability Predictor
 
 This repository contains the machine-learning pipeline used to develop the blood–brain barrier (BBB) permeability predictor deployed in [canSAR](https://cansar.ai).
