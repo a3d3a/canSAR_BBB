@@ -34,7 +34,3 @@ BBB permeability predictions and associated probabilities are available through 
 ## Reference
 
 Meng et al. (2021). *B3DB: A Blood–Brain Barrier Database with Data on Physicochemical Properties and Brain Penetration.* Scientific Data.
-
-[https://doi.org/10.1038/s41597-021-01069-5](https://doi.org/10.1038/s41597-021-01069-5)
-
-One detail worth preserving is the distinction between the two validation approaches: your code uses both conventional stratified random splits and cluster-aware splits, with nested optimization inside the outer holdouts. That's a meaningful methodological strength and worth documenting even in a short README.
